@@ -1,0 +1,2 @@
+.gitignore datoteka kaze Gitu koje datoteke i mape da ignorira.
+Primjeri datoteka za ignoriranje: log, skrivene datoteke, osobne datoteke i tako dalje.
